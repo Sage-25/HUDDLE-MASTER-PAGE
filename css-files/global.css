@@ -1,0 +1,14 @@
+p,
+h1,
+h2,
+button {
+  margin: 0;
+  padding: 0;
+  font-family: Open Sans, Poppins;
+  color: hsl(192, 100%, 9%);
+}
+
+* {
+  margin: 0;
+  padding: 0;
+}
